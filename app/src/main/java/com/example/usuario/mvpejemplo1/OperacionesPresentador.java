@@ -17,6 +17,7 @@ public OperacionesPresentador(Operaciones.Vista vista)
     @Override
     public void showResult(String resultado) {
 
+
     if(vista!=null)
     {
         vista.showResult(resultado);
