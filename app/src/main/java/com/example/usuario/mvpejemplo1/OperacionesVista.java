@@ -45,7 +45,6 @@ public class OperacionesVista extends AppCompatActivity implements Operaciones.V
     public void btnDivision(View view)
     {
 
-        //fsdfsgdfg
         presentador.division(ETnum1.getText().toString(),ETnum2.getText().toString());
 
     }
